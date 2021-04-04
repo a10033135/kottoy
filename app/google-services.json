@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341035023926",
+    "project_id": "idv-fanboat-kottoy",
+    "storage_bucket": "idv-fanboat-kottoy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341035023926:android:ba6659c935b91df9b4e297",
+        "android_client_info": {
+          "package_name": "idv.fanboat.kottoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341035023926-e98is7686g0lgig3iin8b2prt6vgempv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idv.fanboat.kottoy",
+            "certificate_hash": "cb0bd269eb5a4b8463213ff5d4283b6c2eaebe5d"
+          }
+        },
+        {
+          "client_id": "341035023926-l8k8petb7i6i48rm69q7jqltlcru9o1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-F8-GsTMj7p5ZK6vdC20Kef_0YG1a9to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341035023926-l8k8petb7i6i48rm69q7jqltlcru9o1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
